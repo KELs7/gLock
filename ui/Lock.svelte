@@ -31,27 +31,26 @@
 }
 	p{
 		color: 	#800080;
-	}
+}
 	input[type=text] {
 		width: 70%;
 		border: none;
 		background-color: #15baff;
 		border-bottom: 2px solid black;
 		outline: none;
-	}
+}
 	input[type=submit] {
 		width: 30%;
 		padding: 5px;
 		color: white;
 		background-color: #BA55D3;
 		float: right;
-	}
-
+}
 	fieldset{
 		border: 3px solid black;
 		width: 90%;
 		height: 60%;
 		margin: 0 auto;
 		margin-bottom: 1%;
-	}
+}
 </style>
