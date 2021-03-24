@@ -21,7 +21,6 @@
 
 <style>
 	form{
-	
 	display: inline-block;
 	background-color: #15baff;
 	width: 65%;
